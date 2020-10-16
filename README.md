@@ -9,7 +9,9 @@
 - 🔭 2020.3 동양미래대학교 졸업
 - 🌱 (2019.11~현재) Dreamaker Inc 재직중
 
-[![Blog](https://img.shields.io/badge)](https://wani-coding.tistory.com/)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwani-coding.tistory.com&count_bg=%23D8EBCA&title_bg=%23312121&icon=blogger.svg&icon_color=%23E7E7E7&title=Blog&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
 <!--
 **oen142/oen142** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
