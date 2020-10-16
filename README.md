@@ -1,6 +1,7 @@
 ## 안녕하세요. 개발자 Wani 입니다.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oen142&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Wani stats](https://github-readme-stats.vercel.app/api/wakatime?username=oen142)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
